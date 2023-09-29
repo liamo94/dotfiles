@@ -31,3 +31,4 @@ alias clocx='cloc --exclude-dir=node_modules .'
 export DEFAULT_USER=$USER
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+[[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh

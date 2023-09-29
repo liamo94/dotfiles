@@ -25,3 +25,8 @@ https://github.com/AlDanial/cloc
 ### vim pathogen
 
 https://github.com/tpope/vim-pathogen
+
+### Fira Code
+
+https://github.com/tonsky/FiraCode/wiki/Installing
+https://github.com/powerline/fonts
