@@ -28,5 +28,6 @@ alias dev='cd /Users/liamodonnell/Documents/dev'
 alias k='kubectl'
 alias gitpu='git push --set-upstream origin $(git rev-parse --abbrev-ref HEAD)'
 alias clocx='cloc --exclude-dir=node_modules .'
+export DEFAULT_USER=$USER
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
