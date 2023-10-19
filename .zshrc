@@ -11,9 +11,9 @@ plugins=(
 )
 
 source $ZSH/oh-my-zsh.sh
+bindkey '^ ' autosuggest-accept
 
 # Aliases
-
 alias ll='ls -la'
 alias c='clear'
 alias f='open .'

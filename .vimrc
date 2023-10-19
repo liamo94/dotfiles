@@ -1,6 +1,6 @@
 execute pathogen#infect()
 
-
+syntax on
 set ruler
 set number
 "set relativenumber rnu
